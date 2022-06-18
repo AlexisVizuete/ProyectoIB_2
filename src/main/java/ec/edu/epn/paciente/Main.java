@@ -26,6 +26,10 @@ public class Main {
 
         System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
 
+        //error
+
+        System.out.println(listaMain.diagnostico.listaDiagnostico.toString())
+
 
         /*
         int menu = 0;
