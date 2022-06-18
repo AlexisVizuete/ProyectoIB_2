@@ -15,6 +15,10 @@ public class Main {
         lp.anadirPaciente(new Paciente("1713074050", "ANAHI", "VASQUEZ", "21", "F", "19/01/2001", "QUICENTRO", "09600808081", "A+"));
         lp.anadirPaciente(new Paciente("1006425311", "LEONARDO", "SALVADOR", "22", "M", "09/07/1999", "OTAVALO", "0987654321", "O+"));
 
+        System.out.println(lp.toString());
+
+
+        /*
         int menu = 0;
 
         //Variables para Paciente
@@ -769,7 +773,7 @@ public class Main {
 
             }
 
-        }while(menu != 0);
+        }while(menu != 0);*/
 
 
     }
