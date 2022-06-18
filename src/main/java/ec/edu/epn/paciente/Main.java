@@ -18,6 +18,15 @@ public class Main {
         System.out.println(lp.toString());
 
 
+        //Tratamiento
+
+        listaMain.diagnostico.registrarTratamiento("1724831597","hola", "hola2");
+        listaMain.diagnostico.listaDiagnostico.add(new Diagnostico("1724831597", "hola", "hola2", "10/10/2022"));
+        listaMain.anadirTratamiento("1724831597", "Diagnostico");
+
+        System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
+
+
         /*
         int menu = 0;
 
