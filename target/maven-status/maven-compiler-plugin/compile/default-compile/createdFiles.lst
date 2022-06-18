@@ -1,0 +1,10 @@
+ec\edu\epn\paciente\Tratamiento.class
+ec\edu\epn\paciente\Main.class
+ec\edu\epn\paciente\Paciente.class
+ec\edu\epn\paciente\Periodoncia.class
+ec\edu\epn\paciente\Ortodoncia.class
+ec\edu\epn\paciente\ListaPacientes.class
+ec\edu\epn\paciente\ListaTratamientos.class
+ec\edu\epn\paciente\Endodoncia.class
+ec\edu\epn\paciente\Diagnostico.class
+ec\edu\epn\paciente\ValidacionDatos.class
