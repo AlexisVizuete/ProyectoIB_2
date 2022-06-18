@@ -33,6 +33,8 @@ public class Main {
         String procedimientoTratamiento = "";
         String prescripcionTratamiento = "";
 
+        //HOLAAAAA
+
         Scanner entrada = new Scanner(System.in);
         boolean validar, existe, validar2;
 
