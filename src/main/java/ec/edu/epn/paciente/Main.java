@@ -28,7 +28,7 @@ public class Main {
 
         //error
 
-        System.out.println(listaMain.diagnostico.listaDiagnostico.toString())
+        System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
 
 
         /*
