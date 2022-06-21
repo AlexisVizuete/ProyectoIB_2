@@ -1,7 +1,7 @@
-ec\edu\epn\paciente\listaPacienteTest.class
-ec\edu\epn\paciente\PeriodonciaTest.class
-ec\edu\epn\paciente\PacienteTest.class
-ec\edu\epn\paciente\OrtodonciaTest.class
-ec\edu\epn\paciente\EndodonciaTest.class
-ec\edu\epn\paciente\ListaPacientesTest.class
-ec\edu\epn\paciente\DiagnosticoTest.class
+ec/edu/epn/paciente/listaPacienteTest.class
+ec/edu/epn/paciente/PacienteTest.class
+ec/edu/epn/paciente/EndodonciaTest.class
+ec/edu/epn/paciente/ListaPacientesTest.class
+ec/edu/epn/paciente/PeriodonciaTest.class
+ec/edu/epn/paciente/OrtodonciaTest.class
+ec/edu/epn/paciente/DiagnosticoTest.class

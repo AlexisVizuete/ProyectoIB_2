@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dba0144-ad20-4eca-891e-162d45063f1f" name="Changes" comment="Commit Leonardo Salvador2.0" />
+    <list default="true" id="5dba0144-ad20-4eca-891e-162d45063f1f" name="Changes" comment="se prueba tratamiento - diagnostico">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ec/edu/epn/paciente/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ec/edu/epn/paciente/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ProyectoIB-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/ProyectoIB-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.DiagnosticoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.DiagnosticoTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.EndodonciaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.EndodonciaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.OrtodonciaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.OrtodonciaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.PacienteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.PacienteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.PeriodonciaTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.PeriodonciaTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.listaPacienteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-ec.edu.epn.paciente.listaPacienteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.DiagnosticoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.DiagnosticoTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.EndodonciaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.EndodonciaTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.OrtodonciaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.OrtodonciaTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.PacienteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.PacienteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.PeriodonciaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.PeriodonciaTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.listaPacienteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/ec.edu.epn.paciente.listaPacienteTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655584204772</updated>
       <workItem from="1655584206936" duration="1132000" />
+      <workItem from="1655846872214" duration="162000" />
     </task>
     <task id="LOCAL-00001" summary="ESTO ES UNA PRUEBA">
       <created>1655584651596</created>
