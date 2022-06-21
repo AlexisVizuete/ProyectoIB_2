@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dba0144-ad20-4eca-891e-162d45063f1f" name="Changes" comment="Commit Leonardo Salvador">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5dba0144-ad20-4eca-891e-162d45063f1f" name="Changes" comment="Commit Leonardo Salvador2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655845345740</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit Leonardo Salvador2.0">
+      <created>1655846020982</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655846020982</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +127,7 @@
     <MESSAGE value="ESTO ES UNA PRUEBA de paciente" />
     <MESSAGE value="se genero el jar" />
     <MESSAGE value="Commit Leonardo Salvador" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Leonardo Salvador" />
+    <MESSAGE value="Commit Leonardo Salvador2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Leonardo Salvador2.0" />
   </component>
 </project>
