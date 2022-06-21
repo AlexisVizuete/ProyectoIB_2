@@ -29,7 +29,6 @@ public class Main {
 
         //borrador de un toString
         System.out.println(lp.toString());
-        System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
 
         /*
         int menu = 0;
