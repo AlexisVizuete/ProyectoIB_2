@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String args[]) {
 
-        ListaTratamientos listaMain = new ListaTratamientos();
+        /* listaMain = new ListaTratamientos();
 
         ListaPacientes lp = new ListaPacientes();
 
@@ -28,13 +28,11 @@ public class Main {
         System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
 
         //borrador de un toString
-        System.out.println(lp.toString());
+        System.out.println(lp.toString());*/
 // comentario***********************
 
 
         System.out.println("Nueva prueba");
-
-
 
         System.out.println("Soy su padre");
         /*
