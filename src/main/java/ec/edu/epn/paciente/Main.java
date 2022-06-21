@@ -29,7 +29,7 @@ public class Main {
 
         //borrador de un toString
         System.out.println(lp.toString());
-
+// comentario***********************
         /*
         int menu = 0;
 
