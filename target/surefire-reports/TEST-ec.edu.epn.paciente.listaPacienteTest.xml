@@ -59,16 +59,16 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarTelefono[0]" time="0.029"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarTelefono[0]" time="0.031"/>
   <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="consultarPaciente[0]" time="0"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarDireccion[0]" time="0.001"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarDireccion[0]" time="0"/>
   <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="existePaciente[0]" time="0"/>
   <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarTelefono[1]" time="0"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="consultarPaciente[1]" time="0.001"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarDireccion[1]" time="0"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="consultarPaciente[1]" time="0"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarDireccion[1]" time="0.001"/>
   <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="existePaciente[1]" time="0"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarTelefono[2]" time="0.001"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="consultarPaciente[2]" time="0"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarTelefono[2]" time="0"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="consultarPaciente[2]" time="0.001"/>
   <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="actualizarDireccion[2]" time="0"/>
-  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="existePaciente[2]" time="0.001"/>
+  <testcase classname="ec.edu.epn.paciente.listaPacienteTest" name="existePaciente[2]" time="0"/>
 </testsuite>
