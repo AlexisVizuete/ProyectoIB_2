@@ -14,7 +14,8 @@ public class Main {
         lp.anadirPaciente(new Paciente("1724831597", "ALEXIS", "VIZUETE", "22", "M", "06/01/2000", "JARDIN DEL VALLE", "0960071180", "B+"));
         lp.anadirPaciente(new Paciente("1713074050", "ANAHI", "VASQUEZ", "21", "F", "19/01/2001", "QUICENTRO", "09600808081", "A+"));
         lp.anadirPaciente(new Paciente("1006425311", "LEONARDO", "SALVADOR", "22", "M", "09/07/1999", "OTAVALO", "0987654321", "O+"));
-
+        //Nuevo Paciente anadido
+        lp.anadirPaciente(new Paciente("1004637136", "Daniel", "SALVADOR", "15", "M", "09/08/2000", "OTAVALO", "0987654321", "O+"));
         System.out.println(lp.toString());
 
 
@@ -26,10 +27,8 @@ public class Main {
 
         System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
 
-        //error
-
-        System.out.println(listaMain.diagnostico.listaDiagnostico.toString());
-
+        //borrador de un toString
+        System.out.println(lp.toString());
 
         /*
         int menu = 0;
