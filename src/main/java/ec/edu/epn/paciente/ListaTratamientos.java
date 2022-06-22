@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class ListaTratamientos {
 
-    Tratamiento t; //no sirve
+    Tratamiento t;
 
     ArrayList listaTratamientos[] = new ArrayList[4];
 
